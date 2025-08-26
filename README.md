@@ -13,7 +13,7 @@ The website is designed to showcase a coffee shop with multiple sections and smo
   - **Menu** – Display of coffee options with images  
   - **Testimonials** – Customer reviews  
   - **Gallery** – Beautiful coffee-related images  
-  - **Contact** – Contact form for inquiries  
+  - **Contact** – Contact form for inquiries   
 - Sticky navigation bar with smooth scrolling  
 - Mobile-friendly navigation menu  
 
