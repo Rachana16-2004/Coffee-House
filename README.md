@@ -63,4 +63,5 @@ coffee-website/
 ## output:
 
 ![](https://github.com/Rachana16-2004/Coffee-House/blob/main/Screenshot%202025-08-26%20164537.png?raw=true)
+
 ![](https://github.com/Rachana16-2004/Coffee-House/blob/main/Screenshot%202025-08-26%20164613.png?raw=true)
