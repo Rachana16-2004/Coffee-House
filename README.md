@@ -59,3 +59,7 @@ coffee-website/
 *"A coffee lover knows that every cup tells a story — of warmth, comfort, and the perfect start to the day."*  
 
 ---
+
+output:
+
+![](https://github.com/Rachana16-2004/Coffee-House/blob/main/Screenshot%202025-08-26%20164537.png?raw=true)
