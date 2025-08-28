@@ -68,3 +68,5 @@ coffee-website/
 ![](https://github.com/Rachana16-2004/Coffee-House/blob/main/Screenshot%202025-08-26%20164744.png?raw=true)
 ![](https://github.com/Rachana16-2004/Coffee-House/blob/main/Screenshot%202025-08-26%20164640.png?raw=true)
 
+![](https://github.com/Rachana16-2004/Coffee-House/blob/main/Screenshot%202025-08-26%20164721.png?raw=true)
+
