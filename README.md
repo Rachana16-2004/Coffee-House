@@ -5,7 +5,7 @@ The website is designed to showcase a coffee shop with multiple sections and smo
 
 ---  
   
-## 🚀 Features   
+## 🚀 Features    
 - Responsive design (works on mobile, tablet, desktop)   
 - Sections included:  
   - **Hero** – Attractive landing section with a call-to-action  
