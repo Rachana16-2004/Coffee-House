@@ -3,7 +3,7 @@
 A responsive coffee shop website built with **HTML, CSS, and JavaScript**.  
 The website is designed to showcase a coffee shop with multiple sections and smooth navigation.    
 
----        
+---         
      
 ## 🚀 Features       
 - Responsive design (works on mobile, tablet, desktop)   
