@@ -11,7 +11,7 @@ A responsive coffee shop website built with **HTML, CSS, and JavaScript**.   The
   - **About** – Information about the coffee shop   
   - **Menu** – Display of coffee options with images   
   - **Testimonials** – Customer reviews   
-  - **Gallery** – Beautiful coffee-related images   
+  - **Gallery** – Beautiful coffee-related images    
   - **Contact** – Contact form for inquiries   
 - Sticky navigation bar with smooth scrolling   
 - Mobile-friendly navigation menu  
